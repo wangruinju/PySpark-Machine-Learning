@@ -10,4 +10,4 @@ Quick through the basic, I recommend a online course from [Udemy](https://www.ud
 
 ## Natural Language Processing with PySpark
 
-Watch as John Hogue walks through a practical example of a data pipeline to feed textual data for tagging with PySpark and ML. Learn to leverage great existing Python libraries in Spark such as NLTK and how to use some of Spark’s newer features. A [GitHub Repo](https://github.com/dreyco676/nlp_spark) of source code, training and test sets of data will be provided for attendees to explore and play with.
+[Watch](https://www.youtube.com/watch?v=AsW0QzbYVow&t=1825s) as John Hogue walks through a practical example of a data pipeline to feed textual data for tagging with PySpark and ML. Learn to leverage great existing Python libraries in Spark such as NLTK and how to use some of Spark’s newer features. A [GitHub Repo](https://github.com/dreyco676/nlp_spark) of source code, training and test sets of data will be provided for attendees to explore and play with.
